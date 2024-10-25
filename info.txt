@@ -1,0 +1,27 @@
+INTERESTING LINKS AND INFORMATION
+
+https://docs.wxwidgets.org/latest/overview_dnd.html
+
+
+Create button to add components
+use key or button to create wire
+use key or button to delete wire/component
+use key or button to move component
+use key or button to mirror component
+use key or button to rotate component
+
+Sidebar with components
+
+grid to place components and wires on
+
+
+
+Save Latex code to file
+Save image to file
+Save as spice netlist
+
+Read Latex code from file
+Read Spice netlist to create circuit
+
+Compilation for Windows, MacOs, Linux and maybe for Web using emscripten
+

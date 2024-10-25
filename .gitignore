@@ -50,3 +50,16 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Macos
+.DS_Store
+
+# Editor
+.ccls-cache/
+.ccls
+compile_commands.json
+
+
+# CMake
+build/
+.cache/
